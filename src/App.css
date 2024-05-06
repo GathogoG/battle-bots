@@ -1,0 +1,16 @@
+.ui.segment {
+  border: 6px solid #87fa05; /* Change border width and color as needed */
+  border-radius: 9px;
+  margin-bottom: 20px;
+}
+
+.ui.segment:hover {
+  border-color: #ff7c01; /* Change border color on hover */
+}
+
+.ui.segment .card-content {
+  padding: 6px; /* Adjust padding within each card as needed */
+}
+.ui.segment:hover {
+  border-color: #ff9900; /* Change border color on hover */
+}
